@@ -1,0 +1,12 @@
+/* you need to check the css code for the particular element by right clicking "Inspect" in your browser. */
+
+/* this is the top bar "StDecoration"  */
+.css-fk4es0 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 0.125rem;
+    background-image: linear-gradient(90deg, rgb(4,131,164), rgb(255, 253, 128)) !important; 
+    z-index: 1000020;
+}
